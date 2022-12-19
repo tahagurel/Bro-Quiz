@@ -4,9 +4,7 @@
     RouterView
   } from 'vue-router'
   import Layout from '@/layout/MainLayout.vue'
- 
-  console.log(import.meta.env.VITE_API_KEY)
-  console.log(import.meta.env.API_KEY)
+
 </script>
 
 <template>
